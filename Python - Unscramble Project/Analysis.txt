@@ -1,0 +1,29 @@
+Unscramble Computer Science Problems
+
+Task0
+Time Complexity: O(1)
+
+Task1
+Time Complexity: O(n+n) = O(n)
+
+Task2
+Time Complexity: O(n+n) = O(n)
+
+Task3
+
+PART A
+Time Complexity: O(n log n)
+breakdown:
+For Loop - O(n)
+Union - O(len(s) + len(t))
+Python Sort - O(n log n)
+
+PART B
+Time Complexity: O(n)
+
+Task4
+Time Complexity: O(n log n)
+breakdown:
+For Loop - O(n)
+Difference - O(len(s))
+Python Sort - O(n log n)
